@@ -45,6 +45,9 @@ $(function() {
         );
       });
 
+      // var img = $("<img>");
+      // img.attr("src", "public/assets/images/burger.png");
+      // $("#image").html(img);
 
 
   });

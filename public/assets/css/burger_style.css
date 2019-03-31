@@ -1,26 +1,14 @@
-body{
-    background-image: url("../images/burger.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover; 
-    width: 100%;
-    height: 100%;
-    text-align: center;
-    opacity: 0.9;
+body {
+    background-color: yellow !important;
 }
-img{
-    width:20%;
-    size:20%;
-}
-
 .row{
-   color: yellow;
+   color: #000;
 }
 #eat,#eaten{
     color: yellow;
     font-weight: bold;
 }
 .devour-it,.addBurger{
-    background-image: linear-gradient(to right,red,orange,black); 
+    background-color: red;
     color: white;
 }
